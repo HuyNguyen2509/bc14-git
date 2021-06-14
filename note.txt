@@ -19,3 +19,9 @@ ghi chú
 
 -git push
 Push những thay đổi đã commit từ local responsitory -> remote responsitory
+
+-git checkout -b branch-name -> vd git checkout -b feature-a
+tạo ra branch mới từ branch hiện tại, sau khi tạo xong sẽ chuyển sang branch mới
+
+-git checkout <branch-name>
+Chuyển sang branch cần chuyển
