@@ -5,3 +5,15 @@ Cách search terminal command
 
 # Các câu lệnh của git
 - git clone https://github.com/HuyNguyen2509/bc14-git.git
+
+- git status: kiểm tra trạng thái của các file
+
+- git add "tên file" -> vd: git add index.html
+Xác nhận file index.html sẽ được thêm mới và thay đổi
+
+-git add .
+Xác nhận đưa thêm tất cả các file vừa thêm mới hoặc thay đổi vào vùng staging
+
+-git commit -m "message"
+ghi chú
+
