@@ -1,0 +1,7 @@
+# Một số lênh sử dụng với terminal
+- cd : Lệnh di chuyển cấp thư mục
+- ls : Lệnh liệt kê tất cả file và thư mục hiện đang có
+Cách search terminal command
+
+# Các câu lệnh của git
+- git clone https://github.com/HuyNguyen2509/bc14-git.git
