@@ -17,3 +17,5 @@ Xác nhận đưa thêm tất cả các file vừa thêm mới hoặc thay đổ
 -git commit -m "message"
 ghi chú
 
+-git push
+Push những thay đổi đã commit từ local responsitory -> remote responsitory
